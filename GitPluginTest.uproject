@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5C952CD4-43FF-6EFE-B0E5-1DB3D9F8B8F3}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GitPluginTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
